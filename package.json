@@ -5,6 +5,6 @@
   "main": "main.js",
   "dependencies": {
     "hummus": "^1.0.83",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.13"
   }
 }
